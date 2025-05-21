@@ -7,7 +7,7 @@ Developer lỏ
 My name is Sang, currently a student at the University of Transport Ho Chi Minh City
 
 * 🌍  I'm based in Ho Chi Minh city, Vietnam
-* 🖥️  See my portfolio at [My Portfolio](https://huynhsang2005.github.io/portfolio/)
+* 🖥️  See my portfolio at [My Portfolio](https://huynhsang.id.vn/)
 * ✉️  You can contact me at [huynhsang060305@gmail.com](mailto:huynhsang060305@gmail.com)
 * 🧠  I'm learning Typescipt, Reactjs, Nextjs, Nodejs, Expressjs, Nestjs and Tailwindcss.
 
