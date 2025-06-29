@@ -1,6 +1,5 @@
-# Hi! 👋 My name is Huynh Sang
+# Hi! ![wave gif](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Huynh Sang
 
-![wave gif](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 
 Xin chào! Mình là **Huỳnh Sang**, sinh viên tại **Đại học Giao thông Vận tải TP. Hồ Chí Minh - UTH**.
 
@@ -21,17 +20,27 @@ Xin chào! Mình là **Huỳnh Sang**, sinh viên tại **Đại học Giao thô
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=react" height="60" alt="react logo"  />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="60" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=bun" height="60" alt="nodejs logo"  />
+  <img width="12" />
+</div>
+
+</br>
+
+<div align="center">
+ <img src="https://skillicons.dev/icons?i=react" height="60" alt="react logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo"  />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="60" alt="nodejs logo"  />
-  <img width="12" /
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=express" height="60" alt="express logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=nestjs" height="60" alt="nestjs logo"  />
   <img width="12" />
 </div>
+
+</br>
+
 <div align="center">
   <img src="https://skillicons.dev/icons?i=mysql" height="60" alt="mysql logo"  />
   <img width="12" />
@@ -51,17 +60,6 @@ Xin chào! Mình là **Huỳnh Sang**, sinh viên tại **Đại học Giao thô
 
 </br>
 
-<div align="center">
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=huynhsang2005&show_icons=true&locale=en&layout=compact" alt="huynhsang2005" /></p>
-</div>
-
-</br>
-
-<div align="center">
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=huynhsang2005&" alt="huynhsang2005" /></p>
-</div>
-
-
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -78,13 +76,13 @@ Xin chào! Mình là **Huỳnh Sang**, sinh viên tại **Đại học Giao thô
 <p align="center"> 
   <a href="https://www.facebook.com/profile.php?id=100074888350650" target="_blank">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" />
-  </a>
+  </a>&nbsp;&nbsp;
   <a href="https://github.com/HuynhSang2005" target="_blank">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" />
-  </a>
+  </a>&nbsp;&nbsp;
   <a href="http://www.instagram.com/ng.huynhsang" target="_blank">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" />
-  </a>
+  </a>&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/nghuynhsang" target="_blank">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" />
   </a>
