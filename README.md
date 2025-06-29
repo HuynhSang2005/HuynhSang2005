@@ -1,16 +1,16 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Huynh Sang
-==================================================================================================================================
+# Hi! 👋 My name is Huynh Sang
 
-My name is Sang, currently a student at the University of Transport Ho Chi Minh City
+![wave gif](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 
-* 🌍  I'm based in Ho Chi Minh city, Vietnam
-* 🖥️  See my portfolio at [My Portfolio](https://huynhsang.id.vn/)
-* ✉️  You can contact me at [huynhsang060305@gmail.com](mailto:huynhsang060305@gmail.com)
-* 🧠  I'm learning Typescipt, Reactjs, Nodejs, Expressjs, Nestjs and Tailwindcss.
+Xin chào! Mình là **Huỳnh Sang**, sinh viên tại **Đại học Giao thông Vận tải TP. Hồ Chí Minh - UTH**.
 
-### Skills
+- 🌍 Based in: Ho Chi Minh City, Vietnam  
+- 🖥️ Portfolio: [huynhsang.id.vn](https://huynhsang.id.vn)  
+- ✉️ Email: [huynhsang060305@gmail.com](mailto:huynhsang060305@gmail.com)  
+- 🧠 Currently learning: TypeScript, ReactJS, Node.js, Express, NestJS, TailwindCSS
 
 
+## 🛠️ Skills
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=html" height="60" alt="html logo"  />
@@ -61,7 +61,34 @@ My name is Sang, currently a student at the University of Transport Ho Chi Minh 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=huynhsang2005&" alt="huynhsang2005" /></p>
 </div>
 
-<div align="center">
-  <p align="left"> <a href="https://www.facebook.com/profile.php?id=100074888350650" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /> </picture> </a> <a href="https://www.github.com/HuynhSang2005" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="http://www.instagram.com/ng.huynhsang" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/nghuynhsang" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
-</div>
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=huynhsang2005&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=huynhsang2005" alt="GitHub Streak" />
+</p>
+
+
+## 🔗 Connect with Me
+
+<p align="center"> 
+  <a href="https://www.facebook.com/profile.php?id=100074888350650" target="_blank">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" />
+  </a>
+  <a href="https://github.com/HuynhSang2005" target="_blank">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" />
+  </a>
+  <a href="http://www.instagram.com/ng.huynhsang" target="_blank">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" />
+  </a>
+  <a href="https://www.linkedin.com/in/nghuynhsang" target="_blank">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" />
+  </a>
+</p>
+
+
 
