@@ -22,8 +22,8 @@ Xin chào! Mình là **Huỳnh Sang**, sinh viên tại **Đại học Giao thô
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=nodejs" height="60" alt="nodejs logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=bun" height="60" alt="nodejs logo"  />
-  <img width="12" />
+<!--   <img src="https://skillicons.dev/icons?i=bun" height="60" alt="nodejs logo"  />
+  <img width="12" /> -->
 </div>
 
 </br>
@@ -43,6 +43,8 @@ Xin chào! Mình là **Huỳnh Sang**, sinh viên tại **Đại học Giao thô
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=mysql" height="60" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=postgresql" height="60" alt="postgresql logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=mongodb" height="60" alt="mongodb logo"  />
   <img width="12" />
