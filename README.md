@@ -4,8 +4,8 @@
 Xin chào! Mình là **Huỳnh Sang**, sinh viên tại **Đại học Giao thông Vận tải TP. Hồ Chí Minh - UTH**.
 
 - 🌍 Based in: Ho Chi Minh City, Vietnam  
-- 🖥️ Portfolio: [huynhsang.id.vn](https://huynhsang.id.vn)  
-- ✉️ Email: [huynhsang060305@gmail.com](mailto:huynhsang060305@gmail.com)  
+- 🖥️ Portfolio: <a href="https://huynhsang.id.vn" target="_blank" rel="noopener noreferrer">huynhsang.id.vn</a>  
+- ✉️ Email: <a href="mailto:huynhsang060305@gmail.com" target="_blank" rel="noopener noreferrer">huynhsang060305@gmail.com</a>
 - 🧠 Currently learning: TypeScript, ReactJS, Node.js, Express, NestJS, TailwindCSS
 
 <!--
@@ -76,16 +76,16 @@ Xin chào! Mình là **Huỳnh Sang**, sinh viên tại **Đại học Giao thô
 ## 🔗 Connect with Me
 
 <p align="center"> 
-  <a href="https://www.facebook.com/profile.php?id=100074888350650" target="_blank">
+  <a href="https://www.facebook.com/profile.php?id=100074888350650" target="_blank" rel="noopener noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" />
-  </a>&nbsp;&nbsp;
-  <a href="https://github.com/HuynhSang2005" target="_blank">
+  </a>&nbsp; &nbsp;
+  <a href="https://github.com/HuynhSang2005" target="_blank" rel="noopener noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" />
-  </a>&nbsp;&nbsp;
-  <a href="http://www.instagram.com/ng.huynhsang" target="_blank">
+  </a>&nbsp; &nbsp;
+  <a href="http://www.instagram.com/ng.huynhsang" target="_blank" rel="noopener noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" />
-  </a>&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/nghuynhsang" target="_blank">
+  </a>&nbsp; &nbsp;
+  <a href="https://www.linkedin.com/in/nghuynhsang" target="_blank" rel="noopener noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" />
   </a>
 </p>
