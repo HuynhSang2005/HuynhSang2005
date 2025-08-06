@@ -8,6 +8,10 @@ Xin chào! Mình là **Huỳnh Sang**, sinh viên tại **Đại học Giao thô
 - ✉️ Email: <a href="mailto:huynhsang060305@gmail.com" target="_blank" rel="noopener noreferrer">huynhsang060305@gmail.com</a>
 - 🧠 Currently learning: TypeScript, ReactJS, Node.js, Express, NestJS, TailwindCSS
 
+📄 Available Languages:
+- [🇻🇳 Tiếng Việt](README.md)
+- [🇺🇸 English](README.en.md)
+
 <!--
 ## 🛠️ Skills
 
