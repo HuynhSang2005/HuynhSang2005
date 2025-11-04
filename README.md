@@ -74,7 +74,7 @@ Xin chào! Mình là **Huỳnh Sang**, sinh viên tại **Đại học Giao thô
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=HuynhSang2005&theme=default&hide_border=true" alt="HuynhSang2005's GitHub Stats" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=HuynhSang2005&theme=white&hide_border=false" alt="HuynhSang2005's GitHub Stats" />
 </p>
 
 ## 🔗 Connect with Me
