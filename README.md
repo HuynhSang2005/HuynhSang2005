@@ -6,11 +6,12 @@ Xin chào! Mình là **Huỳnh Sang**, sinh viên tại **Đại học Giao thô
 - 🌍 Based in: Ho Chi Minh City, Vietnam  
 - 🖥️ Portfolio: <a href="https://huynhsang.id.vn" target="_blank" rel="noopener noreferrer">huynhsang.id.vn</a>  
 - ✉️ Email: <a href="mailto:huynhsang060305@gmail.com" target="_blank" rel="noopener noreferrer">huynhsang060305@gmail.com</a>
-- 🧠 Currently learning: TypeScript, ReactJS, Node.js, Express, NestJS, TailwindCSS
 
+<!--
 📄 Available Languages:
 - [🇻🇳 Tiếng Việt](README.md)
 - [🇺🇸 English](README.en.md)
+-->
 
 <!--
 ## 🛠️ Skills
@@ -67,17 +68,17 @@ Xin chào! Mình là **Huỳnh Sang**, sinh viên tại **Đại học Giao thô
 </br>
 -->
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=huynhsang2005&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=HuynhSang2005&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
 </p>
 
 <p align="center">
   <img src="https://nirzak-streak-stats.vercel.app/?user=HuynhSang2005&theme=white&hide_border=false" alt="HuynhSang2005's GitHub Stats" />
 </p>
 
-## 🔗 Connect with Me
+## Connect with Me
 
 <p align="center"> 
   <a href="https://www.facebook.com/profile.php?id=100074888350650" target="_blank" rel="noopener noreferrer">
