@@ -19,8 +19,9 @@ Xin chào! Mình là **Huỳnh Sang**, sinh viên tại **Đại học Giao thô
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=HuynhSang2005&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
 </p>
 -->
+
 <p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=HuynhSang2005&theme=white&hide_border=false" alt="HuynhSang2005's GitHub Stats" />
+<img src="https://streak-stats.demolab.com?user=HuynhSang2005&theme=default&hide_border=true" alt="HuynhSang2005's GitHub Stats" />
 </p>
 
 ## Connect with Me
