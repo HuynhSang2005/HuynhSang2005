@@ -40,6 +40,3 @@ Xin chào! Mình là **Huỳnh Sang**, sinh viên tại **Đại học Giao thô
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" />
   </a>
 </p>
-
-
-
