@@ -6,12 +6,6 @@ Xin chào! Mình là **Huỳnh Sang**, sinh viên tại **Đại học Giao thô
 * 🖥️ Portfolio: <a href="https://huynhsang.id.vn">huynhsang.id.vn</a>
 * ✉️ Email: <a href="mailto:huynhsang060305@gmail.com">[huynhsang060305@gmail.com](mailto:huynhsang060305@gmail.com)</a>
 
-<!--
-📄 Available Languages:
-- [🇻🇳 Tiếng Việt](README.md)
-- [🇺🇸 English](README.en.md)
--->
-
 ## GitHub Stats
 
 <p align="center">
