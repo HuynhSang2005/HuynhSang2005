@@ -1,11 +1,5 @@
 # Hi! ![wave gif](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Huynh Sang
 
-Xin chào! Mình là **Huỳnh Sang**, sinh viên tại **Đại học Giao thông Vận tải TP. Hồ Chí Minh - UTH**.
-
-* 🌍 Based in: Ho Chi Minh City, Vietnam
-* 🖥️ Portfolio: <a href="https://huynhsang.id.vn">huynhsang.id.vn</a>
-* ✉️ Email: <a href="mailto:huynhsang060305@gmail.com">[huynhsang060305@gmail.com](mailto:huynhsang060305@gmail.com)</a>
-
 ## GitHub Stats
 
 <p align="center">
